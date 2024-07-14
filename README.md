@@ -20,6 +20,6 @@ You can add more systems if you'd like, following the structure set up within th
 - Add your ROM files to the corresponding ROM folder on the SD2 card
 - Add your Pico-8 Raspberry Pi folder (the one named **pico-8** that you'll find after unzipping the initial downloaded file from Itch.io) into the Tools/rgb30/Splore.pak folder (yes the whole pico-8 folder, and yes, the RGB30 folder)
 - Turn your device on, run the Tools > Reboot into Stock app to go back into Stock OS, then make sure you are connected to your home network, enabled RetroAchievements in RetroArch, etc.  Then go into the Stock APPS section > SD2 and run the app "Install Prereqs".  Once that is done, go back into the Stock APPS section > SD2 and run the "Reboot into MinUI" app to get back to MinUI.
-- For Pico-8, you can either launch Splore from the Tools section or add carts to the corresponding ROM folderr.  Do whatever makes you happiest.
+- For Pico-8, you can either launch Splore from the Tools section or add carts to the corresponding ROM folder.  Do whatever makes you happiest.
 
 Have fun!
