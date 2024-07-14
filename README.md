@@ -1,5 +1,5 @@
 # AbominationUI
-A small and friendly hijack of MinUI's interface for H700 devices
+*A small and friendly hijack of MinUI's interface for H700 devices*
 
 Hi, this is an SD2 image meant to be used with the Anbernic RG40XX H and other H700 devices that already have MinUI installed on them.  
 
