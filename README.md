@@ -7,9 +7,13 @@ It uses the underlying structure of MinUI (https://github.com/shauninman/MinUI) 
 
 There is no guarantee that this will actually work in the future, Anbernic or MinUI may make some updates down the line that breaks this experience.  Likewise, no support is given for this abomination, but if you are feeling frisky it might be fun to try.
 
+Supported systems: Dreamcast, FinalBurn Neo, Game Boy, Game Boy Color, Game Boy Advance, Neo Geo, Nintendo 64, Nintendo DS, NES, Pico-8, PSP, PlayStation, Sega Genesis, Sega CD, and Super Nintendo.  
+
+You can add more systems if you'd like, following the structure set up within the Emus folder.  Ryan's repo has more detailed instructions: https://github.com/ryanmsartor/RGXX-Custom-MinUI-Paks
+
 ## Quick install:
 
-- Follow the MinUI installation instructions for your RG*XX device, using the stock SD1 card and another SD2 card of your choice.  Run MinUI at least once to finish the installation process
+- Follow the MinUI (https://github.com/shauninman/MinUI) installation instructions for your RG*XX device, using the stock SD1 card and another SD2 card of your choice.  Run MinUI at least once to finish the installation process
 - Once installed, drag and drop the contents of this package onto your SD2 card, overwriting when prompted
 - Add your ROM files to the corresponding ROM folder on the SD2 card
 - Add your Pico-8 Raspberry Pi folder (the one named **pico-8** that you'll find after unzipping the initial downloaded file from Itch.io) into the Tools/rgb30/Splore.pak folder (yes the whole pico-8 folder, and yes, the RGB30 folder)
