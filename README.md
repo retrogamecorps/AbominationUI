@@ -1,9 +1,11 @@
 # AbominationUI
 *A small and friendly hijack of MinUI's interface for H700 devices*
 
-Hi, this is an SD2 image meant to be used with the Anbernic RG40XX H and other H700 devices that already have MinUI installed on them.  
+Hi, this is an SD2 image meant to be used with the Anbernic RG40XXH and other H700 devices that already have MinUI installed on them.  
 
-It uses the underlying structure of MinUI (https://github.com/shauninman/MinUI) and some tricks from Ry's Pak Pack (https://github.com/ryanmsartor/RGXX-Custom-MinUI-Paks) but cranked up to 11.  All credit for this work goes to those developers, I just hijacked everything to make a frontend launcher experience that looks like MinUI but actually boots into RetroArch and standalone emulators already installed on the stock Anbernic SD1 card.  You'll also be able to use Native Pico-8 (and Splore), earn RetroAchivements, and use all the shaders and stuff from RetroArch.  But bear in mind you'll lose RGB lighting on your RG40XX H analog sticks and MinUI's menu functions (like sleep/quick shutdown) won't work while in a game.
+It uses the underlying structure of MinUI (https://github.com/shauninman/MinUI) and some tricks from Ry's Pak Pack (https://github.com/ryanmsartor/RGXX-Custom-MinUI-Paks) but cranked up to 11.  All credit for this work goes to those developers, I just hijacked everything to make a frontend launcher experience that looks like MinUI but actually boots into RetroArch and standalone emulators already installed on the stock Anbernic SD1 card.  You'll also be able to use Native Pico-8 (and Splore), earn RetroAchivements, and use all the shaders and stuff from RetroArch.  
+
+So essentially this is the Stock OS gaming experience but with MinUI's simple and snappy main menu interface.  Bear in mind you'll lose RGB lighting on your RG40XXH analog sticks and MinUI's menu functions (like sleep/quick shutdown) won't work while in a game.
 
 There is no guarantee that this will actually work in the future, Anbernic or MinUI may make some updates down the line that breaks this experience.  Likewise, no support is given for this abomination, but if you are feeling frisky it might be fun to try.
 
