@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PICO8_DIR="/mnt/sdcard/Tools/rgb30/Splore.pak/pico-8"
-DIR="/mnt/sdcard/Tools/rg35xxplus/Splore.pak"
+DIR="/mnt/sdcard/Tools/rg40xxcube/Splore.pak"
 
 export LD_LIBRARY_PATH="$DIR:$LD_LIBRARY_PATH"
 export PATH="$DIR:$PATH"
